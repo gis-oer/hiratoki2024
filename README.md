@@ -34,7 +34,7 @@ h3{
 
 - 日時：8月4日（日）10：00～17：00
 - 場所：千葉県柏市柏の葉5-1-5　東京大学空間情報科学研究センター
-- 対象：中学生2年生〜高校生
+- 対象：中学生3年生〜高校生
 - 講師：[小口 高](http://oguchaylab.csis.u-tokyo.ac.jp/members.html)、[飯塚浩太郎](https://kiizuka.wixsite.com/website/)、[矢澤 優理子](https://yurikoyazawa.wixsite.com/yazawayuriko)、[小倉拓郎](https://www.geoguraphy.com/)（兵庫教育大/東京大）、[山内啓之](https://researchmap.jp/hyamauchi/)（立命館大学/東京大）
 - 内容：本プログラムは、地理情報システム、3Dプリンタ、VR機材を用いて防災や地形について実習形式で解説するものです。詳細は、申し込みページから確認してください。 
 
